@@ -1,0 +1,1 @@
+var json_BUREAU_6 = {"type":"FeatureCollection","name":"BUREAU_6","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"N":null},"geometry":{"type":"MultiPoint","coordinates":[[30.256190807134374,1.567972489553624]]}}]}
